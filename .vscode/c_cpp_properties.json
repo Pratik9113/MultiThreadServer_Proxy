@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "E:/MultiTheardServer/proxy_parse.h",   // Folder name aapne jaisa rakha hai
+        "C:/MinGW/include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x86",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
